@@ -48,5 +48,4 @@ Il codice segue i principi di separazione delle responsabilità (SOC):
 
 1. **Clona la repository:**
    ```bash
-   git clone [https://github.com/tuo-username/ExpenseTrackerCLI.git](https://github.com/tuo-username/ExpenseTrackerCLI.git)
-   cd ExpenseTrackerCLI
+   git clone https://github.com/rikydrum/ExpenseTrackerCLI.git
